@@ -188,7 +188,3 @@ img[style*='display: block; object-fit: cover; border-radius: 3px; width: 56.832
 .notion-dark-theme [style*='background: rgba(255, 115, 105, 0.5)'] {
     box-shadow: 0 2px 4px rgb(0 0 0 / 66%) !important;
 }
-
-#notion-app {
-    background-image: url("https://i.pinimg.com/originals/8d/2a/f1/8d2af102a83186fc8cd0f2ba3ca60177.jpg") !important;
-}
